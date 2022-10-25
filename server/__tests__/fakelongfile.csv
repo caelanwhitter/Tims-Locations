@@ -1,0 +1,2 @@
+﻿_id,diningRoomHours,driveThruHours,latitude,longitude,name,phoneNumber
+1,"{'_type': 'hoursOfOperation', 'fri': '12AM'}","{'_type': 'hoursOfOperation', 'fri': '12AM'}",43.37,-79.79,4000 MAINWAY,9053192663

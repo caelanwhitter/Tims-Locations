@@ -1,0 +1,40 @@
+
+/* Override the default css of the tooltip */
+.custom .leaflet-popup-tip,
+.custom .leaflet-popup-content-wrapper {
+    background: #CF122D;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+
+.custom .leaflet-popup-content-wrapper p {
+    margin: 0;
+    font-size: 1.15em;
+}
+
+.custom .leaflet-popup-content-wrapper h2 {
+    margin: 0;
+}
+
+#coffee_icon {
+    height: 4em;
+    width: 4em;
+}
+
+.hours:hover, .bullets:hover {
+    cursor: pointer;
+}
+
+.bullets {
+    height: 1em;
+    width: 1em;
+}
+
+.hoursTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5em;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "520-project-canon-rambeloson-whitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "build": "cd client && npm install && npm run build && cd ../server && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/rosiecan/520-project-canon-rambeloson-whitter.git"
+  },
+  "author": "Canon Rambeloson Whitter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/rosiecan/520-project-canon-rambeloson-whitter/issues"
+  },
+  "homepage": "https://gitlab.com/rosiecan/520-project-canon-rambeloson-whitter#readme",
+  "dependencies": {
+    "leaflet": "^1.9.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

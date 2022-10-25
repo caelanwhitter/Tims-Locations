@@ -1,0 +1,17 @@
+header {
+    background-color: #CF122D;
+    height: max-content;
+    padding: 0.5em;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    font: large, 'Arimo', sans-serif;
+    color: white;
+    margin: 0;
+    text-shadow: 2px 2px 3px #2b2b2b;
+}
