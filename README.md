@@ -1,6 +1,6 @@
 # 🍁 North American Tim Hortons Locations 🍁
 
-Discover [Tim Hortons locations](https://tim-hortons-locations.herokuapp.com/) using React Leaflet!
+Discover [Tim Hortons locations](http://tims-locations.herokuapp.com/) using React Leaflet!
 
 ## Summary of performance
 
